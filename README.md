@@ -1,6 +1,6 @@
 ## IndustryInsider Assistant: Manufacturing and Supply Chain Chatbot
 
-(#### Create a hybrid search RAG based LLM application that can answer industry specific question)
+#### (Create a hybrid search RAG based LLM application that can answer industry specific question)
 
 ### Objective
 The primary goal is to build Minimal Viable Product (MVP) conversational chatbot that assists users with queries related to the manufacturing industry and supply chain management. The chatbot will leverage data from articles from The Economic Times to provide contextually relevant response. By integrated with this industry-specific data, the chatbot will offer insights into recent trends, technologies and key players in the manufacturing sector.
@@ -23,7 +23,6 @@ Following are the few features:
 1.	Memory: The chatbot will be able to have a continuous conversation even with the follow-up questions due to memory integration.
 2.	Streaming response: It delivers answers in real-time, allowing users to see the reply as it’s being generated for a faster, smoother experience.
 3.	New conversation: User can anytime start a fresh conversation with the chatbot.
-
 
 
 ### Sneek-Peek of IndustryInsider Assistant
@@ -55,9 +54,9 @@ Following are the few features:
 
 7.	**Response Generation**: The language model then generates a response using a pre trained generative language model like gemini-1.5-pro-latest to generate human like text responses based on the retrieved information and understood query. 
 
-### Workflow
- 
+
 ![image](https://github.com/user-attachments/assets/ac48bc3c-de1d-44ed-b742-fdcc991621f3)
+                    High-Level Workflow
 
 ### Challenges
 1.	Chatbot’s knowledge base is limited to the articles scraped within the project’s timeframe.
