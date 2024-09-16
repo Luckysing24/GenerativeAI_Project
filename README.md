@@ -1,4 +1,4 @@
-## IndustryInsider Assistant: Manufacturing and Supply Chain Chatbot 🤖
+## IndustryInsider Assistant 🤖
 
 #### (Create a hybrid search RAG based LLM application that can answer industry specific question)
 
