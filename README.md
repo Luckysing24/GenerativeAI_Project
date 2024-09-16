@@ -64,8 +64,8 @@ Following are the few features:
 7.	**Response Generation**: The language model then generates a response using a pre trained generative language model like gemini-1.5-pro-latest to generate human like text responses based on the retrieved information and understood query. 
 
 
-<img src="https://github.com/user-attachments/assets/ac48bc3c-de1d-44ed-b742-fdcc991621f3" width="250" height="150">
-                    High-Level Workflow
+<img src="https://github.com/user-attachments/assets/ac48bc3c-de1d-44ed-b742-fdcc991621f3" width="600" height="400">
+                                                    High-Level Workflow
 
 ### Challenges
 ----------------
