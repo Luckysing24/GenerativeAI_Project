@@ -1,0 +1,27 @@
+================================
+    Question Suite
+================================
+
+Here are some sample qestions to test IndustryInsider Bot's capabilities:
+------------------------------------------------------------------------------------------------------------------
+
+1. Can you provide the list of companies you know about?
+2. Are there any companies that have made significant advancements in manufacturing technologies?
+3. Are there any companies that have implemented sustainable initiatives in their manufacturing processes?
+4. Have you come across any articles mentioning successful supply chain management practices by certain companies?
+5. Are there any companies that have implemented sustainable initiatives in their manufacturing processes?
+6. Summarize the news about L&T.
+7. Give me Name of the project L&T won.
+8. What is the cost of solar project of L&T?
+9. What is the purpose of this project?
+10. How this solar project will help the people of Bihar?
+11. Where in Bihar this project will take place?
+12. Who has become the chairperson of Patel Engineering Ltd?
+13. What does Man Industries manufacture?
+14. How much is Tata Hitachi planning to invest?
+15. What was the revenue growth of Tata Hitachi in FY'24?
+16. Where are their manufacturing plants located?
+17. What technologies will be used in the desalination process?
+18. How long will it take to complete the project of desalination plant?
+19. What do you know about Wipro?
+20. What is the full form of NCLAT?
