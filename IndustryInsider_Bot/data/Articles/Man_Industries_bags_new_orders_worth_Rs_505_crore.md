@@ -1,0 +1,3 @@
+Man Industries bags new orders worth Rs 505 crore
+
+Man Industries (India) Ltd on Tuesday said it has bagged new orders worth Rs 505 crore from an international company. The order is for the supply of various types of pipes, the company said in a BSE filing.  "The company has received new export orders of approximately Rs 505 crore," it said.  The total unexecuted order book of the company as of today stands at approximately Rs 2,100 crore which would be executed in the next six to eight months, according to the filing.  Man Industries (India) Ltd is a global manufacturer in the line pipe industry, specialising in the production of large-diameter carbon steel submerged arc welded pipes.
