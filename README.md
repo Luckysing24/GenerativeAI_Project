@@ -1,4 +1,4 @@
-## IndustryInsider Assistant: Manufacturing and Supply Chain Chatbot
+## IndustryInsider Assistant: Manufacturing and Supply Chain Chatbot 🤖
 
 #### (Create a hybrid search RAG based LLM application that can answer industry specific question)
 
@@ -46,10 +46,10 @@ Following are the few features:
 4.	**Storage**: The embeddings were stored in a vector database which has in-built storage for original chunks as well. ChromaDB is used as the vector store which supports the mentioned requirements. 
 
 5.	**Retrieval and Hybrid Search**: A hybrid search approach was implemented, combining full text search and semantic search to leverage the strengths of both strategies.
--	**Key-word Based Search**: Users could search for specific keywords or phrases using the document store’s built in search capabilities. For this, we made use of BM25 Retriever that fetched original documents/chunks from ChromaDB.
--	**Semantic search**: To retrieve more relevant results, semantic search was employed using the vector database, ChromaDB This involved calculating the cosine similarity between the query embedding and the embeddings of the stored documents. 
--	**Result ranking**: Th retrieved results were ranked based on their similarity to the query, combining the scores from both keyword-based and semantic search. For this, Ensemble Retriever was used that uses Reciprocal Rank Fusion (RRF) behind the scenes.
--	**Retriever component**: A dedicated retriever component was developed to get the best matching sets of documents from the vector store by combining the retrievers from both keyword and Semantic and re ranking the retrieved documents.
+-	**<u>Key-word Based Search</u>**: Users could search for specific keywords or phrases using the document store’s built in search capabilities. For this, we made use of BM25 Retriever that fetched original documents/chunks from ChromaDB.
+-	**<u>Semantic search</u>**: To retrieve more relevant results, semantic search was employed using the vector database, ChromaDB This involved calculating the cosine similarity between the query embedding and the embeddings of the stored documents. 
+-	**<u>Result ranking</u>**: Th retrieved results were ranked based on their similarity to the query, combining the scores from both keyword-based and semantic search. For this, Ensemble Retriever was used that uses Reciprocal Rank Fusion (RRF) behind the scenes.
+-	**<u>Retriever component</u>**: A dedicated retriever component was developed to get the best matching sets of documents from the vector store by combining the retrievers from both keyword and Semantic and re ranking the retrieved documents.
 6.	**Information Retrieval**: Using the hybrid search we get the top best set of documents aligning with the query asked by user.
 
 7.	**Response Generation**: The language model then generates a response using a pre trained generative language model like gemini-1.5-pro-latest to generate human like text responses based on the retrieved information and understood query. 
