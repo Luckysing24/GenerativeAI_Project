@@ -34,7 +34,7 @@ class WebScrap():
             os.makedirs(log_dir)
         list_of_log_files= glob.glob(f"{log_dir}/*.log")
         if list_of_log_files:
-            latest_log_file=max([f for f in list_of_log_files if f.startswith('Data_extraction')],key=os.path.getctime)
+            latest_log_file=max(list_of_log_files,key=os.path.getctime)
             if os.stat(latest_log_file).st_size >= int(os.environ["LOG_FILE_SIZE"]):
                 logfilepath=os.path.join(log_dir,str(datetime.now().strftime('Data_extraction_%Y%m%d%S.log')))
             else:
