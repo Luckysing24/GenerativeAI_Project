@@ -18,7 +18,7 @@ The primary goal is to build Minimal Viable Product (MVP) conversational chatbot
 -----------------------
     -	Total articles: 47
     -	Used pretrained model: Gemini-1.5-pro-latest
-    -	Embedding Model: BGE
+    -	Embedding Model: BGE-base-en
     -	Frameworks: Streamlit and langchain
     -	Storage and semantic retriever: ChromaDB
     -   Full-text-search retriever: BM25
