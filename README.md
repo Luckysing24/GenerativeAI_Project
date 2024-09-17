@@ -20,7 +20,8 @@ The primary goal is to build Minimal Viable Product (MVP) conversational chatbot
     -	Used pretrained model: Gemini-1.5-pro-latest
     -	Embedding Model: BGE
     -	Frameworks: Streamlit and langchain
-    -	Storage: ChromaDB
+    -	Storage and semantic retriever: ChromaDB
+    -   Full-text-search retriever: BM25
   
 ### Scope of Work
 -------------------
